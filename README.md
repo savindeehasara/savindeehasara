@@ -1,3 +1,4 @@
+<bg color = "darkblue">
 <h1 align="center">Hi 👋, I'm Savindee Hasara</h1>
 <h3 align="center">Undergraduate at SLIIT (Data Science specialization)</h3>
 
